@@ -1,3 +1,9 @@
+> **Copia personal.** Este repositorio es una copia de
+> [JosephRobles23/luca](https://github.com/JosephRobles23/luca) ([lucaa.lat](https://lucaa.lat)),
+> creado por Joseph Robles y distribuido bajo licencia MIT.
+> El historial de commits y el archivo [`LICENSE`](LICENSE) originales se conservan sin cambios.
+> Todo el crédito del trabajo original es de su autor.
+
 <p align="center">
   <img src="apps/web/public/Portada-luca.png" alt="Luca — automatización de finanzas personales" width="720">
 </p>
